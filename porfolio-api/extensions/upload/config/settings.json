@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "arfasoft",
+      "api_key": "776735984148899",
+      "api_secret": "24s2AiSj8uMVu5kVy1qbsYD8AyM"
+    }
+  }
